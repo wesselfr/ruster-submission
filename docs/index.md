@@ -21,12 +21,9 @@ BUas email: 200156@buas.nl
 > Make sure to showcase the coolest features implemented and mention what each media is showcasing.  
 > If you want to use videos, it's recommended to upload them on youtube instead of github and just embed them in this Markdown file.
 
-[label](../media/rusterizer-window_bWbbixpzxV.mp4)
-
 ### Final Result:
-<video width="320" height="240" controls>
-  <source src="../media/rusterizer-window_bWbbixpzxV.mp4" type="video/mp4">
-</video>
+[video](https://www.youtube.com/shorts/WDwWc888Pxo)
+
 
 ### Shading Pipeline:
 Shade Function:
