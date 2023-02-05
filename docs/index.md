@@ -13,8 +13,8 @@ BUas email: 200156@buas.nl
 > Provide a detailed list of the features implemented
 > Feel free to provide link to the code that implements te features. (in GitHub you can just click on a line of code and get the link to it)
 
-+ Hot Reloading 
-+ Shader Pipeline
++ [Hot Reloading](https://github.com/wesselfr/ruster-submission/blob/main/src/window/src/reload.rs)
++ [Shader Pipeline](https://github.com/wesselfr/ruster-submission/blob/bba8190f9501e59644897c552a310f90a5b49f15/src/rusterizer/src/lib.rs#L227-L239)
 
 ## Showcase
 > Provide screenshots/videos/gifs to showcase your software rasterizer.  
